@@ -1,5 +1,5 @@
-# bot-lock
+# Lock Pv to Channel :)
 
-Pwer By Python-Pyrogram
+Powered By Python-Pyrogram
 
-Robot Cli
+Edit `config.ini` file  put you api id & api hash (you can get from my.telegram.org)
