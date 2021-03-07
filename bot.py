@@ -1,9 +1,9 @@
 from pyrogram import Client, filters
 
 bot = Client(
-    session_name="Robot",
-    api_id=1691381,
-    api_hash="a4b862a161f7a320d5524730bbf51bf2",
+    session_name="Robot", #Session Name
+    api_id = 123456789, #int of API ID from my.telegram.org
+    api_hash= "sdfgbdrseaeerte4345432345yt", # str onf API HASH from my.telegram.org
     # config_file="config.ini"
 )
 
